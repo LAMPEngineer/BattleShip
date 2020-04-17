@@ -28,6 +28,6 @@ The players take turns to fire their missiles at the other player’s ships. Fir
 
 
 
-# Architucture
+# Architecture
 
 ![architecture.jpg](img/architecture.jpg)
