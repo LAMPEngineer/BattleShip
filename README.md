@@ -28,6 +28,6 @@ The players take turns to fire their missiles at the other player’s ships. Fir
 
 
 
-# Class Diagram
+# Architucture
 
-![high_level_class_diagram.jpg](img/high_level_class_diagram.jpg)
+![architecture.jpg](img/architecture.jpg)
