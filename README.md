@@ -4,6 +4,7 @@ This is web app turn-based two-player game that simulates a war between ships on
 
 
 # Play
+
 The players take turns to fire their missiles at the other player’s ships. Firing is done by targeting a particular cell given by its coordinates in the opponent’s battle area. For example, if Player-1 targets position E1 in the Player-2’s battle area and fires a missile, the player will have successfully hit a ship. On each turn, the player who received the missile should communicate to the other whether it was a hit or a miss. If a player gets a hit in a turn, they get another turn. If it’s a miss, the other player gets their turn.
 
 
@@ -13,7 +14,9 @@ App is built on Laravel 5.7
 
 
 
+
 # Example 
+
 Players could arrange their ships in their battle areas as shown in following figure.
 
 ![board_n_ships.jpg](img/board_n_ships.jpg)
@@ -23,5 +26,8 @@ The players take turns to fire their missiles at the other player’s ships. Fir
 
 
 
-# High Level Class Diagram
+
+
+# Class Diagram
+
 ![high_level_class_diagram.jpg](img/high_level_class_diagram.jpg)
