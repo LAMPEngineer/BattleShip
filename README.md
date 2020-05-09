@@ -1,6 +1,6 @@
 # BattleShip Game
 
-This is web app turn-based two-player game that simulates a war between ships on an ocean. Each player gets their own battle area with a certain number of ships placed in non-overlapping positions. The ships might be of different sizes. Players cannot see each other’s ship location. A ship is considered destroyed when all of its cells are destroyed. The player who destroys all the ships of the other player first wins the game. Once the players set up the ships in their battle areas, the battle begins.
+App is turn-based two-player game that simulates a war between ships on an ocean. Each player gets their own battle area with a certain number of ships placed in non-overlapping positions. The ships might be of different sizes. Players cannot see each other’s ship location. A ship is considered destroyed when all of its cells are destroyed. The player who destroys all the ships of the other player first wins the game. Once the players set up the ships in their battle areas, the battle begins.
 
 
 # Play
