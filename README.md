@@ -10,7 +10,7 @@ The players take turns to fire their missiles at the other player’s ships. Fir
 
 
 # Built
-App is built on Laravel 5.7
+App is built on Laravel 8.0
 
 
 
